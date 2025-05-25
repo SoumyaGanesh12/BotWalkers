@@ -1,4 +1,4 @@
-# 👟💬 BotWalkers: AI-Powered Customer Support Chatbots
+# 💬 BotWalkers: AI-Powered Customer Support Chatbots
 
 **BotWalkers** demonstrates two implementations of AI-powered customer support chatbots using OpenAI:
 
@@ -25,7 +25,7 @@ This project compares both approaches in handling customer queries such as retur
 - Timestamps for messages and loading indicators in UI
 - Modular backend (loader, embedder, retriever, responder)
 
-## 🔁 RAG Workflow (StrideWalk Bot)
+## RAG Workflow (StrideWalk Bot)
 
 ```text
 User Question
