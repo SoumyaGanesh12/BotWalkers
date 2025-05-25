@@ -40,7 +40,7 @@ Make sure the backend is running on `http://localhost:4000` for the assistant to
 - Sends user questions to: `POST http://localhost:4000/sendMessage` (ABC Chatbot)
 - Displays assistant responses returned from the backend
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - React (functional components + hooks)
 - Bootstrap (layout and responsiveness)
