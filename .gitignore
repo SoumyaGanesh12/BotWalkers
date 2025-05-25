@@ -1,0 +1,22 @@
+# Environment files
+.env
+
+# Build output (if applicable)
+dist/
+build/
+coverage/
+
+# IDE & OS specific
+.DS_Store
+.vscode/
+*.log
+
+# Ignore frontend and backend output
+/frontend/node_modules/
+/frontend/.env
+/frontend/build
+
+/backend/node_modules/
+/backend/.env
+/backend/dist
+/backend/coverage
